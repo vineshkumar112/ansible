@@ -2,12 +2,13 @@
 172.35.36.96
 
 [mongodb]
-172.31.42.158
+roboshop-us-dev-db-mongodb-01.jiondp.cloud
+
 
 [mongodb:vars]
 MONGO_USERNAME=mongodbadmin
 MONGO_DB=categories
-NAME=vkumar-inventory
+NAME=Sivakumar-inventory
 
 [mysql]
 roboshop-us-dev-db-mysql-01.joindevops.online
