@@ -1,6 +1,13 @@
-[mongodb]
-roboshop-us-dev-db-mongodb-01.joindevops.online
+192.168.2.1
+172.35.36.96
 
+[mongodb]
+172.31.42.158
+
+[mongodb:vars]
+MONGO_USERNAME=mongodbadmin
+MONGO_DB=categories
+NAME=vkumar-inventory
 
 [mysql]
 roboshop-us-dev-db-mysql-01.joindevops.online
