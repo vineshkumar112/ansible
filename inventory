@@ -2,7 +2,7 @@
 172.35.36.96
 
 [mongodb]
-roboshop-us-dev-db-mongodb-01.jiondp.cloud
+172.31.39.75
 
 
 [mongodb:vars]
